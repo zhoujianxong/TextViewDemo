@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextViewDemo</string>
+   <string name="words">Every year, college students are inspired to teach in the poor countries of China during the vacation. More and more students are interested in this activity and they join the team. Aid education has been the long-term policy to help the poor children and students gain the precious experience.</string>
+    <string name="str">村子里本来就没有什么人了，每到傍晚的时候，山村更加寂静。银色的月光，像一层厚厚的晨霜一样，覆盖着整个山岚和山脚下的村庄。湖边已经枯黄的芦苇，在夜风中发出呼呼随时——响，为这深秋的村庄更加增添了加了一丝寒意。</string>
+</resources>
